@@ -1,2 +1,2 @@
-- [玩法概括](/howtoplay)
+- [玩法概括](/README)
 - [面向 SDC 成员](/forSDCMember)
